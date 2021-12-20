@@ -1,0 +1,58 @@
+[
+	{
+		"title": "Donnie The Dino",
+		"router_name": "/donnie_the_dino",
+		"riv_path": "assets/rive/donnie_the_dino.riv",
+		"author": "Bobbeh",
+		"link": "https://rive.app/community/915-1799-donnie-the-dino/"
+	},
+	{
+		"title": "Football Time",
+		"router_name": "/football_time",
+		"riv_path": "assets/rive/football_time.riv",
+		"author": "Bobbeh",
+		"link": "https://rive.app/community/877-1781-football-time/"
+	},
+	{
+		"title": "Lumberjack Squats",
+		"router_name": "/lumberjack_squats",
+		"riv_path": "assets/rive/lumberjack_squats.riv",
+		"author": "Dante",
+		"link": "https://rive.app/community/980-1894-lumberjack-squats/"
+	},
+	{
+		"title": "Piggy Bank",
+		"router_name": "/piggy_bank",
+		"riv_path": "assets/rive/piggy_bank.riv",
+		"author": "JcToon",
+		"link": "https://rive.app/community/873-2021-piggy-bank/"
+	},
+	{
+		"title": "Zombie",
+		"router_name": "/zombie",
+		"riv_path": "assets/rive/zombie.riv",
+		"author": "JcToon",
+		"link": "https://rive.app/community/205-1404-zombie-character/"	
+	},
+	{
+		"title": "Grow Tree",
+		"router_name": "/grow_tree",
+		"riv_path": "assets/rive/tree.riv",
+		"author": "JcToon",
+		"link": "https://rive.app/community/798-1554-tree-demo/"
+	},
+	{
+		"title": "Safe Box",
+		"router_name": "/safe_box",
+		"riv_path": "assets/rive/safe_box.riv",
+		"author": "JcToon",
+		"link": "https://rive.app/community/506-1005-safe-box-icon/"
+	},
+	{
+		"title": "Water Bar",
+		"router_name": "/water_bar",
+		"riv_path": "assets/rive/water_bar.riv",
+		"author": "JcToon",
+		"link": "https://rive.app/community/715-1406-water-bar-demo/"
+	}
+]
